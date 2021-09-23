@@ -17,3 +17,4 @@ console.log(result);
 /*function ageCalculator(e){
     let screen = `your age is ${e} or ${e+1}`;
 }*/
+
