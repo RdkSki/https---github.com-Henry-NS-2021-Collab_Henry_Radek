@@ -21,7 +21,7 @@ console.log(x);*/
     return  `The area of the box is: ${area} The volume of the box is: ${volume}`;
      //return [avg, mult];
 }
-let result = AreVol(2, 7, 5); //let [avg, mult] = printAvgMult(2, 7, 5)
+let result = AreVol(2, 7, 5); //let [area, volume] = printAreVol(2, 7, 5)
 console.log(result); */
 
 /*const x = (function() {

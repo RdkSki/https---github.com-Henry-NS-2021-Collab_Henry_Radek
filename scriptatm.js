@@ -10,5 +10,4 @@ function atm(m){
     return `you recieve ${a} 100€ notes, ${b} 50€ notes, ${c} 20€ notes and ${d} 10€ notes. Total amount: ${e} €`;
 }
 
-let result = atm(790);
-console.log(result);
+console.log(atm(790));
